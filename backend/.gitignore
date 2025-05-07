@@ -1,0 +1,21 @@
+# Python virtual environment
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# SQLite database
+db.sqlite3
+
+# Django static/media
+staticfiles/
+media/
+
+# Secret or local settings
+*.env
+local_settings.py
+
+# Logs
+*.log
